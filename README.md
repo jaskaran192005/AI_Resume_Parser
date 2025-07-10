@@ -32,16 +32,19 @@ A smart resume parsing web application developed as part of my internship at Pin
    📌 Clone the repository
 
    git clone https://github.com/YOUR_USERNAME/AI_Resume_Parser.git
+   
    cd AI_Resume_Parser
 
    📌 Create and activate a virtual environment
    
    python -m venv venv
+   
    venv\Scripts\activate  # On Windows
 
    📌 Install dependencies
    
    pip install -r requirements.txt
+   
    python -m spacy download en_core_web_sm
 
    📌 Run the app
