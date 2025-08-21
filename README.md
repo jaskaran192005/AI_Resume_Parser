@@ -1,6 +1,6 @@
-🚀 Resume Parser App | Pinnacle Labs Internship
+🚀 Resume Parser App
 
-A smart resume parsing web application developed as part of my internship at Pinnacle Labs. It extracts key candidate information from PDF/DOCX resumes using NLP and AI.
+A smart resume parsing web application. It extracts key candidate information from PDF/DOCX resumes using NLP and AI.
 
 🛠 Technologies Used
 
@@ -31,7 +31,7 @@ A smart resume parsing web application developed as part of my internship at Pin
 
    📌 Clone the repository
 
-   git clone https://github.com/YOUR_USERNAME/AI_Resume_Parser.git
+   git clone https://github.com/your_username/AI_Resume_Parser.git
    
    cd AI_Resume_Parser
 
